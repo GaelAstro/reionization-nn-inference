@@ -22,7 +22,7 @@ pip install numpy tensorflow matplotlib scikit-learn
 
 ## Files
 
-- `train_vf.py` - Main training script with everything
+- `train_nn.py` - Main training script with everything
 - `requirements.txt` - Python dependencies
 - `README.md` - This file
 
