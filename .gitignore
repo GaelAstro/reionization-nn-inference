@@ -1,0 +1,19 @@
+# Data (Contact Dr. Benoit Semelin for access)
+2D_spectra_hann_freq_no_rsd/
+param.dat
+
+# Models & outputs
+models/
+*.keras
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
