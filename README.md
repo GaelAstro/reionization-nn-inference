@@ -46,3 +46,4 @@ LoReLi II data not included. Contact Dr. Benoit Semelin for access.
 ## Contact
 
 Gaël Ferreira Rodriguez - M1 SUTS, Observatoire de Paris
+gael.ferreira-rodriguez@obspm.fr
