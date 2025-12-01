@@ -35,8 +35,10 @@ LoReLi II data not included. Contact Dr. Benoit Semelin for access.
 @mastersthesis{ferreirarodriguez2025,
   author = {Ferreira Rodriguez, Gaël},
   title = {Neural Network Inference of Reionization Parameters from 21cm Power Spectra},
-  school = {Observatoire de Paris, Master SUTS},
-  year = {2025}
+  school = {Observatoire de Paris},
+  year = {2025},
+  type = {M1 Laboratory Insertion Unit Report},
+  note = {Master Sciences de l'Univers et Technologies Spatiales (SUTS)}
 }
 ```
 
