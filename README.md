@@ -1,6 +1,7 @@
 # Neural Network Inference of Reionization Parameters
 
 M1 SUTS Master's LIU - Observatoire de Paris (LUX Laboratory)
+
 **Supervisor:** Dr. Benoit Semelin
 
 ## What This Does
@@ -12,8 +13,8 @@ Uses neural networks to predict astrophysical parameters (star formation timesca
 ## Key Results
 
 - 3 parameters together: ~12-22% error
-- 1 parameter alone: **0.87% error** ✓
-- Found strong degeneracy between τ_SF and log M_min (correlation -0.82)
+- 1 parameter alone: **0.87% error** 
+- Found strong degeneracy between $\tau_{SF}$ and log M_min (correlation -0.82)
 
 ## Installation
 ```bash
