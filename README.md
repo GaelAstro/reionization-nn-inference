@@ -14,7 +14,7 @@ Uses neural networks to predict astrophysical parameters (star formation timesca
 
 - 3 parameters together: ~12-22% error
 - 1 parameter alone: **0.87% error** 
-- Found strong degeneracy between $\tau_{SF}$ and log M_min (correlation -0.82)
+- Found strong degeneracy between $\tau_{SF}$ and log $M_{min}$ (correlation -0.82)
 
 ## Installation
 ```bash
